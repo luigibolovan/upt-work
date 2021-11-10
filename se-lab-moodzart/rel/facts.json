@@ -1,0 +1,415 @@
+[
+    {
+        "age": "80s",
+        "mood": "happy",
+        "name": "Wham! - Wake me up before you go-go",
+        "url": "https://www.youtube.com/watch?v=pIgZ7gMze7A"
+    },
+
+    {
+        "age": "80s",
+        "mood": "happy",
+        "name": "Whitney Houston - i wanna dance with somebody",
+        "url": "https://www.youtube.com/watch?v=eH3giaIzONA"
+    },
+
+    {
+        "age": "80s",
+        "mood": "happy",
+        "name": "Bobby McFerrin - Don't Worry Be Happy",
+        "url": "https://www.youtube.com/watch?v=d-diB65scQU"
+    },
+
+    {
+        "age": "80s",
+        "mood": "exuberant",
+        "name": "Cyndi Lauper - Girls Just Want To Have Fun",
+        "url": "https://www.youtube.com/watch?v=PIb6AZdTr-A"
+    },
+
+    {
+        "age": "80s",
+        "mood": "exuberant",
+        "name": "Depeche Mode - Just Can't Get Enough",
+        "url": "https://www.youtube.com/watch?v=_6FBfAQ-NDE"
+    },
+    
+    {
+        "age": "80s",
+        "mood": "energetic",
+        "name": "Sabrina - Boys Boys Boys",
+        "url": "https://www.youtube.com/watch?v=oxQt4JqlSOg"
+    },
+
+    {
+        "age": "80s",
+        "mood": "frantic",
+        "name": "A-ha - Take on me",
+        "url": "https://www.youtube.com/watch?v=djV11Xbc914"
+    },
+
+    {
+        "age": "80s",
+        "mood": "sad",
+        "name": "Joy Division - Love will tear us apart",
+        "url": "https://www.youtube.com/watch?v=zuuObGsB0No"
+    },
+
+    {
+        "age": "80s",
+        "mood": "sad",
+        "name": "the cure - pictures of you",
+        "url": "https://www.youtube.com/watch?v=UmFFTkjs-O0"
+    },
+
+    {
+        "age": "80s",
+        "mood": "depression",
+        "name": "The Smiths - Please, Please, Please, Let Me Get What I Want",
+        "url": "https://www.youtube.com/watch?v=w3qPMe_cCJk"
+    },
+
+    {
+        "age": "80s",
+        "mood": "depression",
+        "name": "The Smiths - i know it's over",
+        "url": "https://www.youtube.com/watch?v=M6o1SEj02t0"
+    },
+
+    {
+        "age": "80s",
+        "mood": "calm",
+        "name": "Ely Bruna - Take on me",
+        "url": "https://www.youtube.com/watch?v=-_OeutKklWE"
+    },
+
+    {
+        "age": "80s",
+        "mood": "calm",
+        "name": "The Blue Hammock - i'll fly for you",
+        "url": "https://www.youtube.com/watch?v=VNT06VCZFS4"
+    },
+
+    {
+        "age": "80s",
+        "mood": "calm",
+        "name": "Couture Chic - Eye of the tiger",
+        "url": "https://www.youtube.com/watch?v=BjXmlz7VYes"
+    },
+
+    {
+        "age": "80s",
+        "mood": "contentment",
+        "name": "The Rolling Stones - Neighbours",
+        "url": "https://www.youtube.com/watch?v=omGDmvNWLVw"
+    },
+
+    {
+        "age": "70s",
+        "mood": "happy",
+        "name": "ABBA - Dancing queen",
+        "url": "https://www.youtube.com/watch?v=xFrGuyw1V8s" 
+    },
+
+    {
+        "age": "70s",
+        "mood": "exuberant",
+        "name": "Gloria Gaynor - I Will Survive",
+        "url": "https://www.youtube.com/watch?v=ARt9HV9T0w8" 
+    },
+
+
+    {
+        "age": "70s",
+        "mood": "energetic",
+        "name": "Southern Exposure - Love Is",
+        "url": "https://www.youtube.com/watch?v=gnBDf8jgRiA" 
+    },
+
+    {
+        "age": "70s",
+        "mood": "sad",
+        "name": "Rose Royce - Love don't live here anymore",
+        "url": "https://www.youtube.com/watch?v=V5gFAiPJhvI"
+    },
+
+    {
+        "age": "70s",
+        "mood": "frantic",
+        "name": "Indian Reservation",
+        "url": "https://www.youtube.com/watch?v=6lZxoHSELZ4"
+    },
+
+    {
+        "age": "70s",
+        "mood": "depression",
+        "name": "Gilbert O'Sullivan - Alone Again",
+        "url": "https://www.youtube.com/watch?v=D_P-v1BVQn8"
+    },
+    
+    {
+        "age": "70s",
+        "mood": "calm",
+        "name": "The Hollies - The air that i breathe",
+        "url": "https://www.youtube.com/watch?v=HydvceA1PAI"
+    },
+
+    {
+        "age": "70s",
+        "mood": "contentment",
+        "name": "The Rolling Stones - Satisfaction",
+        "url": "https://www.youtube.com/watch?v=nrIPxlFzDi0"
+    },
+
+    {
+        "age": "90s",
+        "mood": "happy",
+        "name": "New Radicals - You Get What You Give",
+        "url":"https://www.youtube.com/watch?v=cPAEFnVZVOs"
+    },
+
+    {
+        "age": "90s",
+        "mood": "happy",
+        "name": "Montell Jordan - This Is How We Do It",
+        "url":"https://www.youtube.com/watch?v=0hiUuL5uTKc"
+    },
+
+    {
+        "age": "90s",
+        "mood": "exuberant",
+        "name": "R. Kelly - i believe i can fly",
+        "url":"https://www.youtube.com/watch?v=GIQn8pab8Vc"
+    },
+
+    {
+        "age": "90s",
+        "mood": "exuberant",
+        "name": "Backstreet Boys - As Long As You Love Me",
+        "url":"https://www.youtube.com/watch?v=0Gl2QnHNpkA"
+    },
+
+    {
+        "age": "90s",
+        "mood": "frantic",
+        "name": "Aerosmith - Crazy",
+        "url":"https://www.youtube.com/watch?v=NMNgbISmF4I"
+    },
+
+    {
+        "age": "90s",
+        "mood": "energetic",
+        "name": "Gonna Make You Sweat",
+        "url":"https://www.youtube.com/watch?v=LaTGrV58wec"
+    },
+
+    {
+        "age": "90s",
+        "mood": "energetic",
+        "name": "Notorious BIG ft P.Diddy & Mase-Mo Money Mo Problems",
+        "url":"https://www.youtube.com/watch?v=ygHL3F0ZZMY"
+    },
+
+    {
+        "age": "90s",
+        "mood": "sad",
+        "name": "R.E.M. - Everybody Hurts",
+        "url":"https://www.youtube.com/watch?v=5rOiW_xY-kc"
+    },
+
+    {
+        "age": "90s",
+        "mood": "depression",
+        "name": "Red Hot Chili Peppers - Under The Bridge ",
+        "url":"https://www.youtube.com/watch?v=GLvohMXgcBo"
+    },
+
+    {
+        "age": "90s",
+        "mood": "calm",
+        "name": "Soundgarden - Black Hole Sun",
+        "url":"https://www.youtube.com/watch?v=3mbBbFH9fAg"
+    },
+
+    {
+        "age": "90s",
+        "mood": "calm",
+        "name": "Nirvana - Come As You Are",
+        "url":"https://www.youtube.com/watch?v=vabnZ9-ex7o"
+    },
+
+    {
+        "age": "90s",
+        "mood": "contentment",
+        "name": "Metallica - Nothing Else Matters",
+        "url":"https://www.youtube.com/watch?v=tAGnKpE4NCI"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "happy",
+        "name": "Coldplay - Viva La Vida",
+        "url": "https://www.youtube.com/watch?v=dvgZkm1xWPE"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "happy",
+        "name": "Jason Mraz - I'm Yours",
+        "url": "https://www.youtube.com/watch?v=EkHTsc9PU2A"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "exuberant",
+        "name": "Eliza Doolittle - Pack Up",
+        "url": "https://www.youtube.com/watch?v=fPt-hkcvoJ0"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "energetic",
+        "name": "RUPEE - Tempted To Touch",
+        "url": "https://www.youtube.com/watch?v=c5ByVBb6RNw"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "energetic",
+        "name": "Bon Jovi - It's My Life",
+        "url": "https://www.youtube.com/watch?v=vx2u5uUu3DE"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "frantic",
+        "name": "Eric Prydz - Call on me ",
+        "url": "https://www.youtube.com/watch?v=-6hpGaTkP0A"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "sad",
+        "name": "Christina Aguilera - Beautiful",
+        "url": "https://www.youtube.com/watch?v=eAfyFTzZDMM"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "depression",
+        "name": "Christina Aguilera - Hurt",
+        "url": "https://www.youtube.com/watch?v=wwCykGDEp7M"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "calm",
+        "name": "Couture Chic - Paparazzi",
+        "url": "https://www.youtube.com/watch?v=i3oFEGlZwF4"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "calm",
+        "name": "Papik - Crazy",
+        "url": "https://www.youtube.com/watch?v=0QAQlgYsgTc"
+    },
+
+    {
+        "age": "2000s",
+        "mood": "contentment",
+        "name": "Lara Fabian - Broken Vow",
+        "url": "https://www.youtube.com/watch?v=po8k1rY-Fq8"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "happy",
+        "name": "Pharrell Williams - Happy",
+        "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "happy",
+        "name": "Daft Punk - Get Lucky",
+        "url": "https://www.youtube.com/watch?v=5NV6Rdv1a3I"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "happy",
+        "name": "Katy Perry - Roar",
+        "url": "https://www.youtube.com/watch?v=CevxZvSJLk8"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "frantic",
+        "name": "LMFAO ft. Lauren Bennett, GoonRock - Party Rock Anthem",
+        "url": "https://www.youtube.com/watch?v=KQ6zr6kCPj8"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "energetic",
+        "name": "MACKLEMORE FEAT SKYLAR GREY - GLORIOUS",
+        "url": "https://www.youtube.com/watch?v=7OrLroFa0AI"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "exuberant",
+        "name": "Fun.: We Are Young ft. Janelle Monáe",
+        "url": "https://www.youtube.com/watch?v=Sv6dMFF_yts"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "energetic",
+        "name": "Can't Hold Us - Macklemore & Ryan Lewis",
+        "url": "https://www.youtube.com/watch?v=VG3JsmOmDqw"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "sad",
+        "name": "Rihanna - Stay ft. Mikky Ekko",
+        "url": "https://www.youtube.com/watch?v=JF8BRvqGCNs"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "sad",
+        "name": "A Great Big World, Christina Aguilera - Say Something",
+        "url": "https://www.youtube.com/watch?v=-2U0Ivkn2Ds"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "depression",
+        "name": "Adele - Hello",
+        "url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "calm",
+        "name": "“Self Control” – Frank Ocean",
+        "url": "https://www.youtube.com/watch?v=BME88lS6aVY"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "calm",
+        "name": "Diddy - Dirty Money - Coming Home ft. Skylar Grey ",
+        "url": "https://www.youtube.com/watch?v=k-ImCpNqbJw"
+    },
+
+    {
+        "age": "2010s",
+        "mood": "contentment",
+        "name": "Adele - Someone Like You",
+        "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    }
+]

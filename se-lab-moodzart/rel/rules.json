@@ -1,0 +1,320 @@
+[
+    {
+        "condition": ["year >= 1980", "year < 1990"],
+        "result": "80s",
+        "final": false
+    },
+
+    {
+        "condition": ["year >= 1990", "year < 2000"],
+        "result": "90s",
+        "final": false
+    },
+
+    {
+        "condition": ["year >= 2000", "year < 2010"],
+        "result": "2000s",
+        "final": false
+    },
+
+    {
+        "condition": ["year >= 2010", "year < 2020"],
+        "result": "2010s",
+        "final": false
+    },
+
+    {
+        "condition": ["year >= 1970", "year < 1980"],
+        "result": "70s",
+        "final": false
+    },
+
+    {
+        "condition": "mood == happy",
+        "result": "happy",
+        "final": false
+    },
+
+    {
+        "condition": "mood == exuberant",
+        "result": "exuberant",
+        "final": false
+    },
+
+    {
+        "condition": "mood == energetic",
+        "result": "energetic",
+        "final": false
+    },
+
+    {
+        "condition": "mood == frantic",
+        "result": "frantic",
+        "final": false
+    },
+
+    {
+        "condition": "mood == sad",
+        "result": "sad",
+        "final": false
+    },
+
+    {
+        "condition": "mood == depression",
+        "result": "depression",
+        "final": false
+    },
+
+    {
+        "condition": "mood == calm",
+        "result": "calm",
+        "final": false
+    },
+
+    {
+        "condition": "mood == contentment",
+        "result": "contentment",
+        "final": false
+    },
+
+    {
+        "condition": ["70s", "happy"],
+        "result": ["check", "70s", "happy"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "exuberant"],
+        "result": ["check", "70s", "exuberant"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "energetic"],
+        "result": ["check", "70s", "energetic"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "frantic"],
+        "result": ["check", "70s", "frantic"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "sad"],
+        "result": ["check", "70s", "sad"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "depression"],
+        "result": ["check", "70s", "depression"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "calm"],
+        "result": ["check", "70s", "calm"],
+        "final": true
+    },
+
+    {
+        "condition": ["70s", "contentment"],
+        "result": ["check", "70s", "contentment"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "happy"],
+        "result": ["check", "80s", "happy"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "exuberant"],
+        "result": ["check", "80s", "exuberant"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "energetic"],
+        "result": ["check", "80s", "energetic"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "frantic"],
+        "result": ["check", "80s", "frantic"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "sad"],
+        "result": ["check", "80s", "sad"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "depression"],
+        "result": ["check", "80s", "depression"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "calm"],
+        "result": ["check", "80s", "calm"],
+        "final": true
+    },
+
+    {
+        "condition": ["80s", "contentment"],
+        "result": ["check", "80s", "contentment"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "happy"],
+        "result": ["check", "90s", "happy"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "exuberant"],
+        "result": ["check", "90s", "exuberant"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "energetic"],
+        "result": ["check", "90s", "energetic"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "frantic"],
+        "result": ["check", "90s", "frantic"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "sad"],
+        "result": ["check", "90s", "sad"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "depression"],
+        "result": ["check", "90s", "depression"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "calm"],
+        "result": ["check", "90s", "calm"],
+        "final": true
+    },
+
+    {
+        "condition": ["90s", "contentment"],
+        "result": ["check", "90s", "contentment"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "happy"],
+        "result": ["check", "2000s", "happy"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "exuberant"],
+        "result": ["check", "2000s", "exuberant"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "energetic"],
+        "result": ["check", "2000s", "energetic"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "frantic"],
+        "result": ["check", "2000s", "frantic"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "sad"],
+        "result": ["check", "2000s", "sad"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "depression"],
+        "result": ["check", "2000s", "depression"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "calm"],
+        "result": ["check", "2000s", "calm"],
+        "final": true
+    },
+
+    {
+        "condition": ["2000s", "contentment"],
+        "result": ["check", "2000s", "contentment"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "happy"],
+        "result": ["check", "2010s", "happy"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "exuberant"],
+        "result": ["check", "2010s", "exuberant"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "energetic"],
+        "result": ["check", "2010s", "energetic"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "frantic"],
+        "result": ["check", "2010s", "frantic"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "sad"],
+        "result": ["check", "2010s", "sad"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "depression"],
+        "result": ["check", "2010s", "depression"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "calm"],
+        "result": ["check", "2010s", "calm"],
+        "final": true
+    },
+
+    {
+        "condition": ["2010s", "contentment"],
+        "result": ["check", "2010s", "contentment"],
+        "final": true
+    }
+
+]
